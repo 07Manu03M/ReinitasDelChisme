@@ -19,8 +19,8 @@ batalla-chismes/
 1. **Clona el repositorio:**
 
 ```bash
-git clone <url-del-repositorio>
-cd ReinasDelChisme
+git clone https://github.com/07Manu03M/ReinitasDelChisme.git
+cd ReinitasDelChisme
 ```
 
 ## Instala las dependencias:
